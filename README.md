@@ -1,11 +1,11 @@
 # myConnectionPool
-轻量版数据库连接池
-参数：
-driverClassName----数据库驱动
-userName-------数据库名
-password-------密码
-url
-initialSize----- 初始化连接数量(默认为5)
+轻量版数据库连接池  
+参数：  
+driverClassName----数据库驱动  
+userName-------数据库名  
+password-------密码  
+url  
+initialSize----- 初始化连接数量(默认为5)  
 minIdle------最小连接数量--------(默认为5)
 maxActive----最大连接数量(默认15)
 使用步骤：
